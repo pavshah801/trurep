@@ -89,7 +89,7 @@ Sequence of containers running:
 
 Stages 1,2,3,4+5,6,7,8,9 to run in series.
 
-Stage 8 can be run in parallel with other stages.
+Stage 8 can be run in parallel with other stages,excluding stage 9.
 
 Stages 4 and 5 in 4+5 to run in parallel.
 
